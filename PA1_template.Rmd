@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 REPRODUCIBLE RESEARCH - Assignment 1
 ===================================== 
  
